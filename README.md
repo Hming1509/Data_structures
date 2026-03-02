@@ -9,4 +9,5 @@ A project where I synthesized the data structures I had learned included:
 - Graph
 - Tree
 - Binary Search Tree
+
 In this project, I used the Java programming language to complete the project.
